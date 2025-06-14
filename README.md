@@ -7,6 +7,10 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project
 
 # DIAGRAMS:
+```
+Program Developed by: Abishai K C
+Register no: 212223240002
+```
 **USECASE DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/9f3f9d09-aef3-4580-a205-f623f9dd02d2)
